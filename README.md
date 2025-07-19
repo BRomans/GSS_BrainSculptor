@@ -1,1 +1,1 @@
-# GSS_BrainSculptor
+# GSS BrainSculptor
