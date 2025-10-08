@@ -78,8 +78,8 @@ Developed in **Unity 6 (6000.x)** during the **Global Summer School 2025 – IAA
 Developed during the **Global Summer School 2025 – IAAC Dubai Node**
 
 **Team BrainSculptor**  
-- [Michele Romani] – Unity Development / BCI Integration  
-- [Krzysztof Galant] – Unity Development / VFX & 3D modeling  
+- [Michele Romani](https://bromans.github.io) – Unity Development / BCI Integration  
+- [Krzysztof Galant](https://krzgalant.wixsite.com/my-site) – Unity Development / VFX & 3D modeling  
 
 Mentored by **IAAC Faculty** and **GSS25 Dubai Node Coordinators**.
 
