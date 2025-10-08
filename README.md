@@ -31,7 +31,7 @@ Developed in **Unity 6 (6000.x)** during the **Global Summer School 2025 – IAA
 - **Unity 6 (6000.x or later)**  
 - **Unicorn SDK** (installed and configured)  
 - **Unicorn Hybrid Black** EEG device  
-- **WindowsS** platform  
+- **Windows** platform  
 
 ---
 
