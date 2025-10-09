@@ -95,6 +95,8 @@ See [LICENSE](LICENSE) for more details.
 ## 🙌 Acknowledgments
 
 Special thanks to:
+- **Firas Safieddine** for leading the mentors team
+- **Cristian Rizzuti** and **Will Stark** for technical advice and feedback
 - **IAAC Global Summer School 2025**
 - **g.tec medical engineering GmbH** for the Unicorn SDK
 
